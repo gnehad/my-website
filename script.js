@@ -1,0 +1,1 @@
+console.log("Bienvenue sur le site d'introduction à la programmation web !");
